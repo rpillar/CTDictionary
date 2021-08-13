@@ -1,0 +1,1 @@
+A custom Dictionary class - to support the CTCSV package.

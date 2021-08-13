@@ -1,0 +1,8 @@
+{
+	"instance" : { },
+	"class" : {
+		"ruleRBEquivalentSuperclassMethodsRuleV1FalsePositive" : "RichardPillar 8/12/2021 21:14",
+		"ruleRBJustSendsSuperRuleV1FalsePositive" : "RichardPillar 8/10/2021 18:34",
+		"ruleRBUnclassifiedMethodsRuleV1FalsePositive" : "RichardPillar 8/12/2021 21:14"
+	}
+}

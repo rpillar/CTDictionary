@@ -1,6 +1,7 @@
 {
 	"instance" : {
-		"initialize" : "RichardPillar 8/10/2021 18:34"
+		"initialize" : "RichardPillar 8/10/2021 18:34",
+		"collectKeysAsStrings:" : "RichardPillar 8/17/2021 18:21"
 	},
 	"class" : { }
 }

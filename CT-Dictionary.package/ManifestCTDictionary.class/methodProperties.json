@@ -1,6 +1,7 @@
 {
 	"instance" : { },
 	"class" : {
+		"ruleRBEquivalentSuperclassMethodsRuleV1FalsePositive" : "RichardPillar 8/17/2021 18:23",
 		"ruleRBJustSendsSuperRuleV1FalsePositive" : "RichardPillar 8/10/2021 18:34"
 	}
 }
